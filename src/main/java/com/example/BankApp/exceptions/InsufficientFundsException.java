@@ -1,4 +1,4 @@
-package com.example.BankApp;
+package com.example.BankApp.exceptions;
 
 public class InsufficientFundsException extends Throwable {
     public InsufficientFundsException(String s) {

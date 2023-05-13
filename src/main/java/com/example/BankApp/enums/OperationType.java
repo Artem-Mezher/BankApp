@@ -1,4 +1,4 @@
-package com.example.BankApp;
+package com.example.BankApp.enums;
 
 public enum OperationType {
     TRANSFER_IN,

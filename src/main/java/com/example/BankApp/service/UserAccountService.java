@@ -1,5 +1,12 @@
-package com.example.BankApp;
+package com.example.BankApp.service;
 
+import com.example.BankApp.entity.Operation;
+import com.example.BankApp.entity.User;
+import com.example.BankApp.enums.OperationType;
+import com.example.BankApp.exceptions.InsufficientFundsException;
+import com.example.BankApp.exceptions.UserNotFoundException;
+import com.example.BankApp.repository.OperationRepository;
+import com.example.BankApp.repository.UserAccountRepository;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Service;

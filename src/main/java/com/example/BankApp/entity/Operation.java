@@ -1,5 +1,6 @@
-package com.example.BankApp;
+package com.example.BankApp.entity;
 
+import com.example.BankApp.enums.OperationType;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
