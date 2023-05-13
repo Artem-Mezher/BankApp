@@ -28,5 +28,5 @@ PostgreSQL Driver
 
 # Структура БД
 
+![структура БД](https://github.com/Artem-Mezher/BankApp/assets/104935581/65492261-4e31-461a-861a-26f50ae9f368)
 
-![структура БД](https://user-images.githubusercontent.com/104935581/234984947-33e8765a-dd8b-4c3a-b6ae-56d95cf1fdb0.png)
